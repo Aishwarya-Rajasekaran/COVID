@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309125629489",
+    "firebase_url": "https://covid-19-app-master.firebaseio.com",
+    "project_id": "covid-19-app-master",
+    "storage_bucket": "covid-19-app-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309125629489:android:c82ac660c41bc653443710",
+        "android_client_info": {
+          "package_name": "com.example.currentplacedetailsonmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309125629489-8psps2q34lkgoklbk6nrfp9nv753qeeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lj4MIS8Vri6RkDZj3gbUnGYvrLlMdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309125629489-8psps2q34lkgoklbk6nrfp9nv753qeeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
